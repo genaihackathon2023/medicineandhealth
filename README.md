@@ -22,7 +22,7 @@ For any questions or more information please contact the event organizers via [e
 ## Important dates and times:
 (All times are Eastern Daylight, EDT.)
 
-* June 9-21: Registration ([form](https://forms.gle/SSaHD1uzcDGcdJxZ9)) 
+* June 9-21: Registration ([form](https://forms.gle/n2HboKh9jCtWW2tc6)) 
 * Saturday, June 24 (11 a.m.–1:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Saturday, July 8 (11 a.m.–1:00 p.m.): Team curation event ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * July 28–30: Hackathon ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
