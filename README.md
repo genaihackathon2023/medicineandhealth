@@ -23,7 +23,7 @@ For any questions or more information please contact the event organizers via [e
 (All times are Eastern Daylight, EDT.)
 
 * June 9-21: Registration ([form](https://forms.gle/n2HboKh9jCtWW2tc6)) 
-* Saturday, June 24 (11 a.m.–1:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
+* Saturday, June 24 (11 a.m.–1:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), Slides)
 * Saturday, July 8 (11 a.m.–1:00 p.m.): Team curation event ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * July 28–30: Hackathon ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Friday, August 11 (11 a.m.–1:00 p.m.): Hackathon demo session (Zoom)
@@ -35,9 +35,14 @@ For any questions or more information please contact the event organizers via [e
 * Saturday, July 29 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Sunday, July 30 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Sunday, July 30 (3:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
+
 ---
 
 ### Important links:
 
-* [Registration form](https://forms.gle/n2HboKh9jCtWW2tc6)
+* [Hackathon registration](https://forms.gle/n2HboKh9jCtWW2tc6)
+* [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Code of conduct](https://www.cs.cmu.edu/generative-ai/conduct)
+* [Slack registration](https://join.slack.com/t/genaicommunity/shared_invite/zt-1wi4julw3-~O4stqKCl9owMARbSyeuzw)
+* [This is who we are! slide deck](https://docs.google.com/presentation/d/1afmIlT17_okB1iaUQ5hNXjS-52PaQfg3-MCXzQATCn0/edit?usp=sharing)
+* [Team pitch deck](https://docs.google.com/presentation/d/1Oc6Z9o7ZbskXWfQpEemBAbSBAKUacMP1zKXobMbha34/edit?usp=sharing)
