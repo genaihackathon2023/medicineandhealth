@@ -40,10 +40,10 @@ For any questions or more information please contact the event organizers via [e
 
 ### Important links:
 
-* [Hackathon registration](https://forms.gle/n2HboKh9jCtWW2tc6)
-* [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Code of conduct](https://www.cs.cmu.edu/generative-ai/conduct)
 * [Judging criteria](https://drive.google.com/file/d/148bv3EZwu1xEdFCkRkGTRBRsWttDtsr-/view?usp=sharing)
+* [Babel documentation](https://docs.google.com/document/d/1Xnex0_mt_fpOdH8evSUoAOYxcIXjM3_Ur_dgAPirKxc/edit?usp=sharing)
+* [SLURM documentation](https://docs.google.com/document/d/1Xy8SihuNVhIor-ZW5qzV_kfrCqHTGCn_8HDzQ3HNL6k/edit?usp=sharing)
+* [Hackathon registration](https://forms.gle/SSaHD1uzcDGcdJxZ9)
+* [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Slack registration](https://join.slack.com/t/genaicommunity/shared_invite/zt-1wi4julw3-~O4stqKCl9owMARbSyeuzw)
-* [This is who we are! slide deck](https://docs.google.com/presentation/d/1afmIlT17_okB1iaUQ5hNXjS-52PaQfg3-MCXzQATCn0/edit?usp=sharing)
-* [Team pitch deck](https://docs.google.com/presentation/d/1Oc6Z9o7ZbskXWfQpEemBAbSBAKUacMP1zKXobMbha34/edit?usp=sharing)
