@@ -34,7 +34,7 @@ For any questions or more information please contact the event organizers via [e
 * Saturday, July 29 (12:00 p.m.): Spotlight session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Saturday, July 29 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 * Sunday, July 30 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
-* Sunday, July 30 (3:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
+* Sunday, July 30 (1:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 
 ---
 
