@@ -32,10 +32,9 @@ If you want to share your experience before, during, and after the hackathon, pl
 
 ## Hackathon schedule:
 * Friday, July 28 (5:00 p.m.): Kickoff session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1AHQhSdKQw4a8RRfqNAdp3e0WZAi4ST9N/view?usp=sharing))
-* Saturday, July 29 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
+* Saturday, July 29 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides]https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing)
 * Saturday, July 29 (12:00 p.m.): Spotlight session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
-* Saturday, July 29 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
-* Sunday, July 30 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
+* Sunday, July 30 (10:00 a.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing))
 * Sunday, July 30 (1:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 
 ---
@@ -46,6 +45,7 @@ If you want to share your experience before, during, and after the hackathon, pl
 * [Judging criteria](https://drive.google.com/file/d/148bv3EZwu1xEdFCkRkGTRBRsWttDtsr-/view?usp=sharing)
 * [Babel documentation](https://docs.google.com/document/d/1Xnex0_mt_fpOdH8evSUoAOYxcIXjM3_Ur_dgAPirKxc/edit?usp=sharing)
 * [SLURM documentation](https://docs.google.com/document/d/1Xy8SihuNVhIor-ZW5qzV_kfrCqHTGCn_8HDzQ3HNL6k/edit?usp=sharing)
+* [Website Github](https://github.com/genaihackathon2023/genaihackathon2023.github.io/tree/main/tracks/medicine)
 * [Hackathon registration](https://forms.gle/SSaHD1uzcDGcdJxZ9)
 * [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Slack registration](https://join.slack.com/t/genaicommunity/shared_invite/zt-1wi4julw3-~O4stqKCl9owMARbSyeuzw)
