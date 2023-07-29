@@ -34,7 +34,7 @@ If you want to share your experience before, during, and after the hackathon, pl
 * Friday, July 28 (5:00 p.m.): Kickoff session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1AHQhSdKQw4a8RRfqNAdp3e0WZAi4ST9N/view?usp=sharing))
 * Saturday, July 29 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing))
 * Saturday, July 29 (12:00 p.m.): Spotlight session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
-* Saturday, July 29 (5:00 a.m.): Checkpoint 2 (optional, [Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing))
+* Saturday, July 29 (5:00 p.m.): Checkpoint 2 (optional, [Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing))
 * Sunday, July 30 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09), [Slides](https://drive.google.com/file/d/1DVVmcoXaPDPFkZSVfyPKK5duDHAIPfHb/view?usp=sharing))
 * Sunday, July 30 (1:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/91235072052?pwd=WjBWNFNkSitFLzErS1FUOTlhUXR1dz09))
 
